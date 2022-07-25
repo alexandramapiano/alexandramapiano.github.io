@@ -4,14 +4,34 @@ body {
     padding: 14px;
 } 
 
+#ElmNest {
+    float: left;
+}
+
 #fgf {
     float: right;
 }
 
-#ntb {
+#solo {
     float: right;
 }
 
-#2022Elm {
+#gylf {
+    float: right;
+}
+
+#ashtree {
+    float: right;
+}
+
+#sycaA {
+    float: right;
+}
+
+#sycaB {
+    float: left;
+}
+
+#ASH {
     float: left;
 }
