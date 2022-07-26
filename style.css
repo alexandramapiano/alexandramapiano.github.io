@@ -2,7 +2,7 @@ body {
     background-color: #b4d2e3;
     color: #0b5c32;
     padding: 14px;
-} 
+}
 
 #ElmNest {
     float: left;
@@ -33,5 +33,23 @@ body {
 }
 
 #ASH {
+    float: left;
+}
+
+#sycamore h4 {
+    text-align: right;
+}
+
+#sycamore p {
+    text-align: left;
+}
+
+#review p {
+    color: rebeccapurple;
+    text-align: left;
+    clear: both;
+}
+
+#name {
     float: left;
 }
